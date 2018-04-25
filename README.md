@@ -2,6 +2,12 @@
 
 > Exploring HTTP servers and clients with Ruby
 
+## Sections
+
+* [HTTP server](#http-server)
+* [HTTP server with Basic Authentication](#http-server-with-basic-authentication)
+* [HTTP server with Digest Authentication](#http-server-with-digest-authentication)
+
 ## HTTP server
 
 ```
